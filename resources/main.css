@@ -1,6 +1,6 @@
 
 a.logo {
-    font-family: Ubuntu;
+    font-family: ubuntu;
     font-size: x-large;
     font-style: italic;
 }
@@ -11,8 +11,7 @@ h1.title{
 }
 
 p.presentation{
-    font-family: Ubuntu;
-    font-style: italic;
+    font-family: ubuntu;
     font-size: larger;
     /*text-shadow: 18px 15px 20px black;*/
 }
