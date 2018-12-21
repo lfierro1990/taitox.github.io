@@ -14,6 +14,7 @@ h1.title{
 p.presentation{
     font-family: ubuntu;
     font-size: larger;
+    display: none
     /*text-shadow: 18px 15px 20px black;*/
 }
 
@@ -26,4 +27,12 @@ footer{
 img.logocontacto{
     width: 18px;
     height: 12px;
+}
+
+
+img.tool{
+
+    width: 120px;
+    height: 107px;
+
 }
